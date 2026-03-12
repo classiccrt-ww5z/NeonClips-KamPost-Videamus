@@ -1,2 +1,4 @@
 # NeonClips-KamPost-Videamus
-LOL you should not use this crappy src just so you know
+ALright so basicly NeonClips is TOO BIG for github so like here
+https://files.catbox.moe/nbgur6.zip
+
